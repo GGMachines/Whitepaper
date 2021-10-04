@@ -11,11 +11,14 @@ Glam-Gram is a platform economy for cults and cultures of all kind. We embark on
 
 ## Our Approach
 
-## Our Solution
+## Our Innovation
 - Time Graph for Ordering Social Network Communities
-- Mirror Merkle Trees for Data Compression
+- Mirror Merkle Tree for Steaming System Compression
 
-## Our Innovation 
-- 
+## Our Technology Stack
+- Flutter
+- Firebase
+- Ethereum Engine
+- Polygon Network
 
 
