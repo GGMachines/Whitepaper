@@ -12,7 +12,10 @@ Glam-Gram is a platform economy for cults and cultures of all kind. We embark on
 ## Our Approach
 
 ## Our Solution
+- Time Graph for Ordering Social Network Communities
+- Mirror Merkle Trees for Data Compression
 
-## Technology 
+## Our Innovation 
+- 
 
 
